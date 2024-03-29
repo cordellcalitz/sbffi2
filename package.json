@@ -24,7 +24,7 @@
   ],
   "author": "Bryan English <bryan@bryanenglish.com>",
   "license": "MIT",
-  "bugs": {
+  "bugs":{
     "url": "https://github.com/bengl/sbffi/issues"
   },
   "homepage": "https://github.com/bengl/sbffi#readme",
